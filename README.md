@@ -62,5 +62,5 @@ The project is particularly focused on:
 * 3D indoor mapping using RF sensing
 
 <p>
-   <img src = compare_final.png>
+   <img src = comapre_final.png>
 </p>
