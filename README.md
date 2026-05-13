@@ -12,33 +12,33 @@ Elevation estimation
 Range FFT
 Doppler FFT
 Angle FFT / Beamforming
-*Multi-angle probabilistic fusion of radar observations
-*Sparse-to-dense wall reconstruction using:
+* Multi-angle probabilistic fusion of radar observations
+* Sparse-to-dense wall reconstruction using:
 GAN-based upsampling
 Spatial interpolation
 Occupancy enhancement
-*Indoor wall and structural mapping in:
+* Indoor wall and structural mapping in:
 LOS environments
 NLOS environments
-*Support for real-time or offline radar data processing
+* Support for real-time or offline radar data processing
 
-**System Pipeline
-*Raw ADC capture from mmWave radar
-*Beamsteering configuration sweep
-*TDM-MIMO virtual array processing
-*Range–Doppler–Angle estimation
-*Sparse point cloud extraction
-*Multi-view spatial fusion
-*Occupancy grid generation
-*GAN-based dense reconstruction
-*Dense wall map visualization
+**System Pipeline**
+* Raw ADC capture from mmWave radar
+* Beamsteering configuration sweep
+* TDM-MIMO virtual array processing
+* Range–Doppler–Angle estimation
+* Sparse point cloud extraction
+* Multi-view spatial fusion
+* Occupancy grid generation
+* GAN-based dense reconstruction
+* Dense wall map visualization
 
-**Hardware
-*TI IWR1843BOOST and DCA1000EVM
-*UART + Ethernet data capture
-*Beamsteering-enabled antenna configuration
+**Hardware**
+* TI IWR1843BOOST and DCA1000EVM
+* UART + Ethernet data capture
+* Beamsteering-enabled antenna configuration
 
-**Software Stack
+**Software Stack**
 Python, NumPy, SciPy, OpenRadar, PyTorch / TensorFlow, mmWave DSP processing
 
 **Research Focus
