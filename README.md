@@ -37,6 +37,9 @@ NLOS environments
 * TI IWR1843BOOST and DCA1000EVM
 * UART + Ethernet data capture
 * Beamsteering-enabled antenna configuration
+<p>
+   <img src =setup.drawio.png>
+</p>
 
 **Software Stack**
 Python, NumPy, SciPy, OpenRadar, PyTorch / TensorFlow, mmWave DSP processing
