@@ -41,11 +41,11 @@ NLOS environments
 **Software Stack**
 Python, NumPy, SciPy, OpenRadar, PyTorch / TensorFlow, mmWave DSP processing
 
-**Research Focus
+**Research Focus**
 This work explores how directional beamsteering combined with probabilistic multi-angle fusion can improve sparse radar perception and how deep generative models can reconstruct dense indoor wall structures from incomplete radar observations.
 The project is particularly focused on:
-*Sparse radar sensing
-*mmWave spatial reconstruction
-*Radar-based scene understanding
-*Deep learning assisted occupancy enhancement
-*3D indoor mapping using RF sensing
+* Sparse radar sensing
+* mmWave spatial reconstruction
+* Radar-based scene understanding
+* Deep learning assisted occupancy enhancement
+* 3D indoor mapping using RF sensing
